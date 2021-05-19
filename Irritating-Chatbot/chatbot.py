@@ -9,7 +9,7 @@ def irritating_message():
     message = client.messages.create(
             from_='whatsapp:your twilio number',
             body='Idiot',
-            to='whatsapp:then number you want to send messages to'
+            to='whatsapp:the number you want to send messages to'
         )
 
     print(message.sid)
