@@ -3,7 +3,7 @@ This is a simple chatbot that uses twilio to integrate with whatsapp and send sa
 
 The app is deployed and hosted using <a href="https://id.heroku.com/login">heroku</a> which enables the program to keep running all the time even if our local computer is turned off.
 
-<img src="https://github.com/gowthambalboa/DialogFlow-Chatbot/blob/main/Parrot-Chatbot-using-Twilio/twilio-parrot-chatbot.png" height=500px width=50% alt="chatbot-parrot" class="center">
+<img src="https://github.com/gowthambalboa/DialogFlow-Chatbot/blob/main/Parrot-Chatbot-using-Twilio/twilio-parrot-chatbot.png" height=500px width=80% alt="chatbot-parrot" class="center">
 
 # Packages used
 - <a href="https://www.twilio.com/">twilio</a>
