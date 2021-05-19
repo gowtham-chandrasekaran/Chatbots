@@ -3,6 +3,7 @@ This is a fun filled program that will automatically send out irritating message
 
 <img src="https://github.com/gowthambalboa/DialogFlow-Chatbot/blob/main/Irritating-Chatbot/irritating-message.png" height=500px width=90% alt="chatbot-parrot" class="center">
 
+This program is hosted on heroku and it can be disabled anytime when you feel satisfied irritating the person. 😹
 # Packages used
 - <a href="https://www.twilio.com/">twilio</a>
 - <a href="https://apscheduler.readthedocs.io/en/stable/">apscheduler</a>
