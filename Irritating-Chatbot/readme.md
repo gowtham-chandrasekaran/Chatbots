@@ -4,5 +4,5 @@ This is a fun filled program that will automatically send out irritating message
 
 
 # Packages used
-- <a href-"https://www.twilio.com/">twilio</a>
-- <a href-"https://apscheduler.readthedocs.io/en/stable/">apscheduler</a>
+- <a href="https://www.twilio.com/">twilio</a>
+- <a href="https://apscheduler.readthedocs.io/en/stable/">apscheduler</a>
